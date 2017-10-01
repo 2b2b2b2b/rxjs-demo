@@ -18,5 +18,9 @@
   "homepage": "https://github.com/2b2b2b2b/rxjs-demo#readme",
   "dependencies": {
     "rxjs": "^5.4.3"
+  },
+  "devDependencies": {
+    "express": "^4.16.1",
+    "webpack": "^3.6.0"
   }
 }
