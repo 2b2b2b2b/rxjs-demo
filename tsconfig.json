@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "sourceMap": true,
+    "module": "commonjs",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "types": [
+      "node",
+      "jquery"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "compileOnSave": false
+}
